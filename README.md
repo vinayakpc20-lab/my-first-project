@@ -1,2 +1,6 @@
 # my-first-project
-learning Github basic 
+hii, i am learning Github basic 
+## skills
+- Python
+- Backend Development
+- GitHub Basic
